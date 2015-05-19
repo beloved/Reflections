@@ -12,3 +12,7 @@ by only adding files that are dependent open one another.
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 To separate differentt features on there own branch. To experiment without changing the original code.
+
+How do the diagrams help you visualize the branch structure?
+
+Helps to give a visual picture of the project
