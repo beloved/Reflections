@@ -5,3 +5,10 @@ You can use git to start tracking files. to get a complete history of your files
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 The staging area is the area git is tracking, any changes are see by git. The working directory allows you to store files that are used for the project but are not a part of the project. Ideas and research don’t need to be tracked unless desired.
+
+How can you use the staging area to make sure you have one commit per logical change?
+by only adding files that are dependent open one another.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+To separate differentt features on there own branch. To experiment without changing the original code.
