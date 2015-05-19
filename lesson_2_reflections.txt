@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+You can use git to start tracking files. to get a complete history of your files
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+The staging area is the area git is tracking, any changes are see by git. The working directory allows you to store files that are used for the project but are not a part of the project. Ideas and research don’t need to be tracked unless desired.
